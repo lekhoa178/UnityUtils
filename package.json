@@ -1,6 +1,6 @@
 {
   "name": "com.khoale.unityutils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "displayName": "Unity Utilities",
   "description": "Unity Utils is a collection of utility scripts and tools to enhance your Unity development workflow. These utilities are designed to simplify common tasks and improve productivity.",
   "unity": "2022.1",
